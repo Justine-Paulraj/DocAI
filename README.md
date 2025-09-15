@@ -1,7 +1,5 @@
 A Django web application that allows users to upload PDF documents and ask questions about the content using OpenAI embeddings and LangChain.
-
 ---
-
 ## Features
 
 - Upload PDF files and extract content.
