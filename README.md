@@ -7,5 +7,4 @@ A Django web application that allows users to upload PDF documents and ask quest
 - Conversational interface showing previous questions and answers.
 - **Clear**: Clears the current conversation but keeps the uploaded file.
 - **Reset**: Clears conversation and uploaded file, requiring a new PDF upload.
-- Scrollable chat history.
 ---
